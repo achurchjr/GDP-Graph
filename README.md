@@ -1,1 +1,1 @@
-GDP Graph
+This folder will contain various graphs of World Bank data, available at https://datacatalog.worldbank.org/. It will use the Python wbdata package to connect to the World Bank API, and will use Plotly to visualize these indiactors.
